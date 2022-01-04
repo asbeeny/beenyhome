@@ -3,8 +3,8 @@ title: Easy Yeast Bread
 author: ''
 date: '2022-01-04'
 slug: easy-yeast-bread
-categories: []
-tags: []
+categories: ['baking']
+tags: ['bread']
 ---
 
 ## Ingredients
